@@ -1,4 +1,5 @@
-[Anthony Brida ] Your name
-[Philadelphia] Where you are from
-[Italian] A favorite food
-[kayaking] A hobby
+## My BIO
+-[] Your name: Anthony Brida 
+-[] Where you are from: Philadelphia
+-[] A favorite food: Italian
+-[] A hobby: kayaking
